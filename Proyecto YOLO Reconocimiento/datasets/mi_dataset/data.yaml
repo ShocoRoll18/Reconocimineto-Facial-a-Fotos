@@ -1,0 +1,5 @@
+train: datasets/mi_dataset/images/train
+val: datasets/mi_dataset/images/val
+
+nc: 1  # número de clases
+names: ['Fernando', 'gato']  # nombres de las clases
